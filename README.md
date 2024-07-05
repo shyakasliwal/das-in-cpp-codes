@@ -1,2 +1,2 @@
-# das-in-cpp-codes
+# dsa-in-cpp-codes
 this contains practice code for cpp and dsa
